@@ -1,0 +1,17 @@
+.progress-wrap h3{
+    font-size: 15px;
+    margin-bottom: 0;
+}
+.progress{
+    height: 10px;
+    position: relative;
+    background-color: #fff;
+}
+.progress-bar{
+    height: 10px;
+    position: initial;
+}
+.progress-bar span {
+    font-size: 13px;
+    top: -16px;
+}
