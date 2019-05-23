@@ -15,3 +15,28 @@
     font-size: 13px;
     top: -16px;
 }
+.zoom-list{
+    list-style: none;
+}
+.zoom-list li{
+    transition: all .4s;
+    height: 34px;
+}
+
+.zoom-list li:hover{
+    font-size: 1.2rem;
+    transform: translateX(10px);
+    color: rgba(0, 0, 0, 0.9);
+
+}
+.owl-carousel.owl-drag .owl-item{
+    touch-action: pan-y;
+}
+@media screen and (min-width: 750px) {
+    .owl-carousel.home-slider, .owl-carousel.home-slider .slider-item, .owl-carousel.home-slider .slider-item .slider-text {
+        height: 450px;
+    }
+    .owl-carousel.home-slider .slider-item .slider-text .one-third{
+        height: 250px;
+    }
+}
