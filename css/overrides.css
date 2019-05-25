@@ -21,6 +21,7 @@
 .zoom-list li{
     transition: all .4s;
     height: 34px;
+    cursor: default;
 }
 
 .zoom-list li:hover{
