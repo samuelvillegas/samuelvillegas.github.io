@@ -334,56 +334,8 @@
 				<p>I have created many apps and websites that have improved my clientes busines. Here are some of them!</p>
 			</div>
 		</div>
-		<div class="row">
-			<div class="col-md-7">
-				<div class="project img ftco-animate img-2 d-flex justify-content-center align-items-center" style="background-image: url(images/mill-intranetportada.jpg);">
-					<div class="overlay"></div>
-					<div class="text text-center p-4">
-						<h3><a href="#">Mill Financial Group - Intranet</a></h3>
-						<span>Web Development</span>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-5">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/tumaca-portada.jpg);">
-							<div class="overlay"></div>
-							<div class="text text-center p-4">
-								<h3><a href="#" data-toggle="modal" data-target="#view_sale">Tumaca Website</a></h3>
-								<span>Web Design</span>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-12">
-						<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/mill_portada.jpg);">
-							<div class="overlay"></div>
-							<div class="text text-center p-4">
-								<h3><a href="#">Mill Financial Group Website</a></h3>
-								<span>Web Design</span>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-4">
-				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/senepol_portada.jpg);">
-					<div class="overlay"></div>
-					<div class="text text-center p-4">
-						<h3><a href="#">Senepol Norte Sur - WordPress Website</a></h3>
-						<span>WordPress Development</span>
-					</div>
-				</div>
-			</div>
-			<div class="col-md-8">
-				<div class="project img ftco-animate d-flex justify-content-center align-items-center" style="background-image: url(images/dupar_portada.jpg);">
-					<div class="overlay"></div>
-					<div class="text text-center p-4">
-						<h3><a href="#">Dupar - WordPress Website</a></h3>
-						<span>WordPress Development</span>
-					</div>
-				</div>
-			</div>
+		<div class="row" id="projects_container">
+
 		</div>
 	</div>
 </section>
@@ -555,7 +507,7 @@
 
 <!-- Modals -->
 <div class="modal fade" id="view_site" tabindex="-1" role="dialog" aria-labelledby="mediumModalLabel" aria-hidden="true">
-	<div class="modal-dialog modal-lg" role="document">
+	<div class="modal-dialog modal-xl project-modal" role="document">
 		<div class="modal-content">
 			<div class="modal-header">
 				<h5 class="modal-title">Tumaca</h5>
@@ -565,9 +517,18 @@
 			</div>
 			<div class="modal-body">
 				<div class="row">
-					<div class="col-md-4"></div>
-					<div class="col-md-8">
+					<div class="col-lg-5 col-md-6 project-info p-2">
+						<h1 class="project-title" id="project_title"></h1>
+						<a href="#" class="project-url" id="project_url"></a>
+						<div id="project_description"></div>
 
+						<div class="tags" id="project_tags">
+						</div>
+					</div>
+					<div class="col-lg-7 col-md-6 project-gallery">
+						<div class="project-slider owl-carousel" id="project_slider">
+
+						</div>
 					</div>
 				</div>
 			</div>

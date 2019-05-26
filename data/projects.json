@@ -1,0 +1,89 @@
+[
+  {
+    "id": 1,
+    "title": "Mill Financial Group - Intranet",
+    "category" : "Web Development",
+    "url": "https://millfinancialgroup.com",
+    "thumbnail": "images/mill_intranet_portada.jpg",
+    "description": "",
+    "layout": {
+      "width": "col-md-7",
+      "wrap": false,
+      "height": "img-2"
+    },
+    "tags": [
+      "PHP", "MVC", "MySQL", "HTML 5", "CSS 3", "JavaScript", "Bootstrap"
+    ],
+    "gallery": [
+      "data/projects/1/mill-login.PNG",
+      "data/projects/1/mill-dashboard.png",
+      "data/projects/1/diary_visit.png",
+      "data/projects/1/contact_download_modules.png",
+      "data/projects/1/sales_diary_modules.png",
+      "data/projects/1/tablet_contact_list.png",
+      "data/projects/1/tablet_diary.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tumaca - Website",
+    "category" : "Web Design",
+    "url": "http://tumaca7.com",
+    "thumbnail": "images/tumaca-portada.jpg",
+    "layout": {
+      "width": "col-md-12",
+      "wrap": "col-md-5",
+      "wrapType": "opening",
+      "height": "img"
+    },
+    "description": "",
+    "tags": [],
+    "gallery": []
+  },
+  {
+    "id": 3,
+    "title": "Mill Financial Group - Website",
+    "category" : "Web Design",
+    "url": "https://millfinancialgroup.com",
+    "thumbnail": "images/mill_portada.jpg",
+    "layout": {
+      "width": "col-md-12",
+      "wrap": "col-md-5",
+      "wrapType": "closing",
+      "height": "img"
+    },
+    "description": "",
+    "tags": [],
+    "gallery": []
+  },
+  {
+    "id": 4,
+    "title": "Senepol Norte Sur - WordPress Website",
+    "category": "WordPress Development",
+    "url": "http://senepolnortesur.com",
+    "thumbnail": "images/senepol_portada.jpg",
+    "layout": {
+      "width": "col-md-4",
+      "wrap": false,
+      "height": "img"
+    },
+    "description": "",
+    "tags": [],
+    "gallery": []
+  },
+  {
+    "id": 5,
+    "title": "Dupar - WordPress Website",
+    "category": "WordPress Development",
+    "url": "http://dupar.com.ve",
+    "thumbnail": "images/dupar_portada.jpg",
+    "layout": {
+      "width": "col-md-8",
+      "wrap": false,
+      "height": "img"
+    },
+    "description": "",
+    "tags": [],
+    "gallery": []
+  }
+]

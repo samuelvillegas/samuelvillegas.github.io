@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e218717f-4a41-4f2a-8da3-7aa9a8a96515" name="Default Changelist" comment="" />
+    <list default="true" id="e218717f-4a41-4f2a-8da3-7aa9a8a96515" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/projects.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/1/contact_download_modules.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/1/diary_visit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/1/mill-login.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/1/sales_diary_modules.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/1/tablet_contact_list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/1/tablet_diary.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dupar_captura-dupar_2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dupar_home-1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dupar_home-2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dupar_producto-1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dupar_producto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dupar_responsive-1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/mill_intranet_portada.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/overrides.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/overrides.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/adslab_portada.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/adslab_portada.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dupar_portada.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/dupar_portada.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/senepol_portada.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/senepol_portada.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -14,90 +36,82 @@
   <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1523814197">
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PHP" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="HTML" value="87" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/dark-theme.css">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41922">
-              <caret line="2466" column="24" selection-start-line="2466" selection-start-column="4" selection-end-line="2466" selection-end-column="24" />
+            <state relative-caret-position="68">
+              <caret line="519" column="50" lean-forward="true" selection-start-line="519" selection-start-column="50" selection-end-line="519" selection-end-column="62" />
+              <folding>
+                <element signature="e#14466#17211#0" />
+                <element signature="n#section#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/css/overrides.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="468" column="53" selection-start-line="468" selection-start-column="53" selection-end-line="468" selection-end-column="53" />
+            <state relative-caret-position="376">
+              <caret line="147" column="23" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="359">
+              <caret line="331" column="62" selection-start-line="331" selection-start-column="62" selection-end-line="331" selection-end-column="62" />
               <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#317#475#0" />
+                <element signature="e#529#655#0" />
+                <element signature="e#749#991#0" />
+                <element signature="e#1041#1360#0" />
+                <element signature="e#1410#1868#0" />
+                <element signature="e#1920#2186#0" />
+                <element signature="e#2226#2235#0" />
+                <element signature="e#2559#2587#0" />
+                <element signature="e#2633#3370#0" />
+                <element signature="e#3419#3974#0" />
+                <element signature="e#4091#4886#0" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/prepros-6.config">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/overrides.css">
+        <entry file="file://$PROJECT_DIR$/data/projects.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="374">
+              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
+        <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1598">
-              <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
+            <state>
+              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/owl.carousel.min.js">
+        <entry file="file://$PROJECT_DIR$/css/ionicons.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="20817" selection-start-line="5" selection-start-column="20817" selection-end-line="5" selection-end-column="20817" />
+            <state relative-caret-position="170">
+              <caret line="10" column="10729" selection-start-line="10" selection-start-column="10720" selection-end-line="10" selection-end-column="10729" />
             </state>
           </provider>
         </entry>
@@ -113,25 +127,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>--white</find>
-      <find>-white</find>
-      <find>white</find>
-      <find>white;</find>
-      <find>:root</find>
-      <find>blue</find>
-      <find>color:</find>
-      <find>color: #000</find>
-      <find>color: #000a</find>
-      <find>slider</find>
-      <find>.slider</find>
-      <find>.bg-light</find>
-      <find>bg-light</find>
-      <find>ico</find>
-      <find>vime</find>
-      <find>if</find>
-      <find>mfp-close</find>
-      <find>modal</find>
-      <find>lightbox</find>
       <find>moda</find>
       <find>col-md-12 animate-box</find>
       <find>col-md-6 animate-box</find>
@@ -143,6 +138,25 @@
       <find>owl</find>
       <find>blog-section</find>
       <find>form</find>
+      <find>project</find>
+      <find>image-popup</find>
+      <find>&quot;project</find>
+      <find>owlCarousel</find>
+      <find>modal</find>
+      <find>boot</find>
+      <find>-slide</find>
+      <find>intranet</find>
+      <find>arrow-for</find>
+      <find>ion</find>
+      <find>owl-carousel</find>
+      <find>$.pos</find>
+      <find>\t</find>
+      <find>\n</find>
+      <find>data-toogle</find>
+      <find>data-too</find>
+      <find>data-toggle</find>
+      <find>toggle</find>
+      <find>view_site</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -154,22 +168,18 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/dark-theme.css" />
         <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/css/overrides.css" />
+        <option value="$PROJECT_DIR$/data/projects.json" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/overrides.css" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
@@ -179,6 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,11 +197,33 @@
               <item name="samuelvillegas.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="samuelvillegas.github.io" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="samuelvillegas.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samuelvillegas.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="samuelvillegas.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samuelvillegas.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="samuelvillegas.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samuelvillegas.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="samuelvillegas.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="samuelvillegas.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="projects" type="462c0819:PsiDirectoryNode" />
+              <item name="1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -202,6 +235,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\samuelvillegas.github.io\data\projects\1" />
       <recent name="D:\code\samuelvillegas.github.io\images" />
     </key>
   </component>
@@ -236,16 +270,17 @@
       <workItem from="1558793243939" duration="801000" />
       <workItem from="1558804480941" duration="912000" />
       <workItem from="1558805748552" duration="390000" />
+      <workItem from="1558811920200" duration="13341000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19032000" />
+    <option name="totallyTimeSpent" value="32373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25416037" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22842261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -257,7 +292,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -265,6 +300,27 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5174507" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -280,6 +336,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/contact-form.php" />
+    <entry file="file://$PROJECT_DIR$/js/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20817" selection-start-line="5" selection-start-column="20817" selection-end-line="5" selection-end-column="20817" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/prepros-6.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/mill-intranetportada.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/mill_intranet_portada.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ionicons.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10729" selection-start-line="10" selection-start-column="10720" selection-end-line="10" selection-end-column="10729" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/1/tablet_diary.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/1/diary_visit.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/1/tablet_contact_list.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="331" column="62" selection-start-line="331" selection-start-column="62" selection-end-line="331" selection-end-column="62" />
+          <folding>
+            <element signature="e#317#475#0" />
+            <element signature="e#529#655#0" />
+            <element signature="e#749#991#0" />
+            <element signature="e#1041#1360#0" />
+            <element signature="e#1410#1868#0" />
+            <element signature="e#1920#2186#0" />
+            <element signature="e#2226#2235#0" />
+            <element signature="e#2559#2587#0" />
+            <element signature="e#2633#3370#0" />
+            <element signature="e#3419#3974#0" />
+            <element signature="e#4091#4886#0" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/open-iconic-bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/dark-theme.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -289,50 +419,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41922">
-          <caret line="2466" column="24" selection-start-line="2466" selection-start-column="4" selection-end-line="2466" selection-end-column="24" />
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/prepros-6.config">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/overrides.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="17" selection-start-line="94" selection-start-column="17" selection-end-line="94" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/owl.carousel.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20817" selection-start-line="5" selection-start-column="20817" selection-end-line="5" selection-end-column="20817" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/contact-form.php">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="468" column="53" selection-start-line="468" selection-start-column="53" selection-end-line="468" selection-end-column="53" />
+        <state relative-caret-position="68">
+          <caret line="519" column="50" lean-forward="true" selection-start-line="519" selection-start-column="50" selection-end-line="519" selection-end-column="62" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#7;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14466#17211#0" />
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/overrides.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="147" column="23" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
         </state>
       </provider>
     </entry>

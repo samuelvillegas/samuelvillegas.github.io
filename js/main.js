@@ -275,3 +275,80 @@
 
 })(jQuery);
 
+var projects = {};
+$.ajax({
+	"type": "POST",
+	"url": "data/projects.json",
+	success: function(data){
+		console.log(data)
+		let htmlResult = '';
+
+		let html = '<div class="{{width}}">' +
+			'<div class="project img {{height}} d-flex justify-content-center align-items-center"' +
+			' data-id="{{id}}" data-toggle="modal" data-target="#view_site" style="background-image: url({{thumbnail}});">' +
+			'<div class="overlay"></div>' +
+			'<div class="text text-center p-4">' +
+			'<h3><a href="#">{{title}}</a></h3>' +
+			'<span>{{category}}</span>' +
+			'</div>' +
+			'</div>' +
+			'</div>';
+		for(let i = 0; i < data.length; i++){
+			let htmlTemp = html
+				.replace('{{width}}', data[i].layout.width)
+				.replace('{{id}}', data[i].id)
+				.replace('{{height}}', data[i].layout.height)
+				.replace('{{thumbnail}}', data[i].thumbnail)
+				.replace('{{title}}', data[i].title)
+				.replace('{{category}}', data[i].category)
+
+			if(data[i].layout.wrap){
+				if(data[i].layout.wrapType === 'opening'){
+					htmlTemp = '<div class="{{wrap}}">'.replace('{{wrap}}', data[i].layout.wrap) +
+						'<div class="row">' + htmlTemp
+				}else{
+					htmlTemp = htmlTemp + '</div></div>'
+				}
+
+			}
+			htmlResult += htmlTemp;
+		}
+
+		$('#projects_container').append(htmlResult)
+
+		projects = data
+	}
+});
+
+$('#projects_container').on('click', '[data-target="#view_site"]',function (e) {
+	let project_id = $(this).data('id')
+	let project = projects.filter((a) => a.id === project_id)
+	project = project[0];
+
+	$('#project_title').text(project.title);
+	$('#project_url').text(project.url).attr('href', project.url);
+	$('#project_description').text(project.description);
+	project.tags.map(a => $('#project_tags').append('<span class="tag">'+ a +'<span>'));
+	project.gallery.map(a => $('#project_slider').append('<img src="'+ a +'">'));
+
+
+
+	$('.project-slider').owlCarousel({
+		items: 1,
+		loop: true,
+		animateOut: 'fadeOut',
+		animateIn: 'fadeIn',
+		center: true,
+		autoplayHoverPause: true,
+		autoplayTimeout: 8000,
+		autoplay: true,
+		navText : [
+			"<span class='slider-button ion-md-arrow-back'></span>",
+			"<i class=\"slider-button ion-md-arrow-forward\"></i>"],
+		nav: true,
+		dots: false
+	});
+	console.log(project)
+});
+
+
