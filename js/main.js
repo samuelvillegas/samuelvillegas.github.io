@@ -277,7 +277,7 @@ AOS.init({
 
 var projects = {};
 $.ajax({
-	"type": "POST",
+	"type": "GET",
 	"url": "data/projects.json",
 	success: function(data){
 		console.log(data)
