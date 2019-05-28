@@ -15,6 +15,7 @@
       "PHP", "MVC", "MySQL", "HTML 5", "CSS 3", "JavaScript", "Bootstrap"
     ],
     "gallery": [
+      "data/projects/1/mill_intranet_portada.jpg",
       "data/projects/1/mill-login.PNG",
       "data/projects/1/mill-dashboard.png",
       "data/projects/1/diary_visit.png",
@@ -37,8 +38,15 @@
       "height": "img"
     },
     "description": "",
-    "tags": [],
-    "gallery": []
+    "tags": ["HTML 5", "CSS 3", "JavaScript", "jQuery", "Materialize-css"],
+    "gallery": [
+      "data/projects/2/tumaca-portada.jpg",
+      "data/projects/2/web-tumaca.jpg",
+      "data/projects/2/tablet.png",
+      "data/projects/2/scroll.png",
+      "data/projects/2/scroll_2.png",
+      "data/projects/2/web-refrigerante-super-duty.jpg"
+    ]
   },
   {
     "id": 3,
@@ -53,8 +61,15 @@
       "height": "img"
     },
     "description": "",
-    "tags": [],
-    "gallery": []
+    "tags": ["HTML 5", "CSS 3", "Materialize", "Modern Design", "jQuery", "JavaScript"],
+    "gallery": [
+      "data/projects/3/mill_portada.jpg",
+      "data/projects/3/mill-home.JPG",
+      "data/projects/3/mill_about.png",
+      "data/projects/3/screen_phon4.png",
+      "data/projects/3/mill_home_2.png",
+      "data/projects/3/mill_mobile.JPG"
+    ]
   },
   {
     "id": 4,
@@ -68,8 +83,15 @@
       "height": "img"
     },
     "description": "",
-    "tags": [],
-    "gallery": []
+    "tags": ["PHP", "WordPress"],
+    "gallery": [
+      "data/projects/4/home-1.PNG",
+      "data/projects/4/whole_page.png",
+      "data/projects/4/single_vaca.png",
+      "data/projects/4/tv_vacas.png",
+      "data/projects/4/productos.png",
+      "data/projects/4/table_view_cavacas.png"
+    ]
   },
   {
     "id": 5,
@@ -83,7 +105,14 @@
       "height": "img"
     },
     "description": "",
-    "tags": [],
-    "gallery": []
+    "tags": ["WordPress"],
+    "gallery": [
+      "data/projects/5/dupar_home-1.PNG",
+      "data/projects/5/dupar_home-2.PNG",
+      "data/projects/5/dupar_producto.jpg",
+      "data/projects/5/dupar_producto-1.PNG",
+      "data/projects/5/dupar_responsive-1.PNG",
+      "data/projects/5/dupar_captura-dupar_2.PNG"
+    ]
   }
 ]

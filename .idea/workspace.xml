@@ -2,27 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e218717f-4a41-4f2a-8da3-7aa9a8a96515" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/data/projects.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/projects/1/contact_download_modules.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/projects/1/diary_visit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/projects/1/mill-login.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/projects/1/sales_diary_modules.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/projects/1/tablet_contact_list.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/projects/1/tablet_diary.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dupar_captura-dupar_2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dupar_home-1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dupar_home-2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dupar_producto-1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dupar_producto.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dupar_responsive-1.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/mill_intranet_portada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/1/mill_intranet_portada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/scroll.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/scroll_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/tablet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/tumaca-portada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/tumaca_responsive.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/web-desengrasante.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/web-distribucion-agua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/web-distribucion-combustible.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/web-liga-para-frenos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/web-productos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/web-refrigerante-super-duty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/web-transporte-comercial.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/2/web-tumaca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/3/mill-home.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/3/mill_about.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/3/mill_hacemos.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/3/mill_home_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/3/mill_mobile.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/3/mill_portada.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/3/screen mockup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/3/screen_phon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/4/home-1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/4/phone_view.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/4/productos.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/4/single_vaca.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/4/table_view_cavacas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/4/tv_vacas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/4/whole_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/5/dupar_captura-dupar_2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/5/dupar_home-1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/5/dupar_home-2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/5/dupar_producto-1.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/5/dupar_producto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/projects/5/dupar_responsive-1.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/overrides.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/overrides.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/adslab_portada.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/adslab_portada.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/dupar_portada.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/dupar_portada.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/senepol_portada.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/senepol_portada.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/projects.json" beforeDir="false" afterPath="$PROJECT_DIR$/data/projects.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/owl.carousel.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -39,12 +58,20 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/projects.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="519" column="50" lean-forward="true" selection-start-line="519" selection-start-column="50" selection-end-line="519" selection-end-column="62" />
+            <state relative-caret-position="76">
+              <caret line="535" lean-forward="true" selection-start-line="535" selection-end-line="535" />
               <folding>
-                <element signature="e#14466#17211#0" />
                 <element signature="n#section#5;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
               </folding>
@@ -52,25 +79,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/overrides.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="376">
-              <caret line="147" column="23" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
+            <state relative-caret-position="498">
+              <caret line="172" column="20" selection-start-line="172" selection-start-column="20" selection-end-line="172" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="331" column="62" selection-start-line="331" selection-start-column="62" selection-end-line="331" selection-end-column="62" />
+            <state relative-caret-position="177">
+              <caret line="290" column="20" selection-start-line="290" selection-start-column="20" selection-end-line="290" selection-end-column="20" />
               <folding>
                 <element signature="e#317#475#0" />
                 <element signature="e#529#655#0" />
@@ -90,30 +112,17 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/projects.json">
+        <entry file="file://$PROJECT_DIR$/js/owl.carousel.min.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+            <state relative-caret-position="102">
+              <caret line="6" column="5587" selection-start-line="6" selection-start-column="5580" selection-end-line="6" selection-end-column="5587" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/ionicons.min.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="10729" selection-start-line="10" selection-start-column="10720" selection-end-line="10" selection-end-column="10729" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/data/projects/4/phone_view.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -127,15 +136,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>moda</find>
-      <find>col-md-12 animate-box</find>
-      <find>col-md-6 animate-box</find>
-      <find>height: 750px</find>
-      <find>750px</find>
-      <find>pointer</find>
-      <find>pointer-events: no</find>
-      <find>pointer-events: none</find>
-      <find>owl</find>
       <find>blog-section</find>
       <find>form</find>
       <find>project</find>
@@ -157,6 +157,15 @@
       <find>data-toggle</find>
       <find>toggle</find>
       <find>view_site</find>
+      <find>data/</find>
+      <find>/projects/projects/</find>
+      <find>scree</find>
+      <find>destroy</find>
+      <find>&lt;img</find>
+      <find>magnificPopup</find>
+      <find>.image-popup</find>
+      <find>tags</find>
+      <find>destroy.owl.carousel</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -167,10 +176,10 @@
       <list>
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/dark-theme.css" />
-        <option value="$PROJECT_DIR$/js/main.js" />
-        <option value="$PROJECT_DIR$/data/projects.json" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/overrides.css" />
+        <option value="$PROJECT_DIR$/data/projects.json" />
+        <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
   </component>
@@ -189,7 +198,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -205,25 +213,18 @@
             <path>
               <item name="samuelvillegas.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="samuelvillegas.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="samuelvillegas.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="samuelvillegas.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="samuelvillegas.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="samuelvillegas.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="1" type="462c0819:PsiDirectoryNode" />
+              <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -235,8 +236,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\code\samuelvillegas.github.io\data\projects\1" />
-      <recent name="D:\code\samuelvillegas.github.io\images" />
+      <recent name="D:\code\samuelvillegas.github.io\js" />
+      <recent name="D:\code\samuelvillegas.github.io\data\projects\6" />
+      <recent name="D:\code\samuelvillegas.github.io\data\projects\4" />
+      <recent name="D:\code\samuelvillegas.github.io\data\projects\3" />
+      <recent name="D:\code\samuelvillegas.github.io\data\projects\2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -271,16 +275,19 @@
       <workItem from="1558804480941" duration="912000" />
       <workItem from="1558805748552" duration="390000" />
       <workItem from="1558811920200" duration="13341000" />
+      <workItem from="1558980923606" duration="5822000" />
+      <workItem from="1559005614135" duration="6830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32373000" />
+    <option name="totallyTimeSpent" value="45025000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22842261" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22842261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -301,7 +308,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5174507" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22842261" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -337,13 +344,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/contact-form.php" />
-    <entry file="file://$PROJECT_DIR$/js/owl.carousel.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20817" selection-start-line="5" selection-start-column="20817" selection-end-line="5" selection-end-column="20817" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/prepros-6.config">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -352,13 +352,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/images/mill_intranet_portada.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/ionicons.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="10729" selection-start-line="10" selection-start-column="10720" selection-end-line="10" selection-end-column="10729" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/projects/1/tablet_diary.png">
       <provider selected="true" editor-type-id="images" />
@@ -369,45 +362,7 @@
     <entry file="file://$PROJECT_DIR$/data/projects/1/tablet_contact_list.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" lean-forward="true" selection-start-column="3" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="331" column="62" selection-start-line="331" selection-start-column="62" selection-end-line="331" selection-end-column="62" />
-          <folding>
-            <element signature="e#317#475#0" />
-            <element signature="e#529#655#0" />
-            <element signature="e#749#991#0" />
-            <element signature="e#1041#1360#0" />
-            <element signature="e#1410#1868#0" />
-            <element signature="e#1920#2186#0" />
-            <element signature="e#2226#2235#0" />
-            <element signature="e#2559#2587#0" />
-            <element signature="e#2633#3370#0" />
-            <element signature="e#3419#3974#0" />
-            <element signature="e#4091#4886#0" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/data/projects.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/open-iconic-bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/dark-theme.css">
@@ -424,12 +379,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/ionicons.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10729" selection-start-line="10" selection-start-column="10720" selection-end-line="10" selection-end-column="10729" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/3/mill_home_2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/3/mill_about.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/3/mill_hacemos.JPG">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/3/screen mockup.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/3/screen_phon4.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects/4/phone_view.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="519" column="50" lean-forward="true" selection-start-line="519" selection-start-column="50" selection-end-line="519" selection-end-column="62" />
+        <state relative-caret-position="76">
+          <caret line="535" lean-forward="true" selection-start-line="535" selection-end-line="535" />
           <folding>
-            <element signature="e#14466#17211#0" />
             <element signature="n#section#5;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
@@ -438,8 +427,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/overrides.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="376">
-          <caret line="147" column="23" selection-start-line="147" selection-start-column="23" selection-end-line="147" selection-end-column="23" />
+        <state relative-caret-position="498">
+          <caret line="172" column="20" selection-start-line="172" selection-start-column="20" selection-end-line="172" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/owl.carousel.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5587" selection-start-line="6" selection-start-column="5580" selection-end-line="6" selection-end-column="5587" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/projects.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="46" column="37" selection-start-line="46" selection-start-column="37" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="290" column="20" selection-start-line="290" selection-start-column="20" selection-end-line="290" selection-end-column="20" />
+          <folding>
+            <element signature="e#317#475#0" />
+            <element signature="e#529#655#0" />
+            <element signature="e#749#991#0" />
+            <element signature="e#1041#1360#0" />
+            <element signature="e#1410#1868#0" />
+            <element signature="e#1920#2186#0" />
+            <element signature="e#2226#2235#0" />
+            <element signature="e#2559#2587#0" />
+            <element signature="e#2633#3370#0" />
+            <element signature="e#3419#3974#0" />
+            <element signature="e#4091#4886#0" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
