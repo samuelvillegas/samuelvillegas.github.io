@@ -1,12 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Mill Financial Group - Intranet",
+    "title": "Mill Financial Group - Web app",
     "category" : "Web Development",
     "url": "https://millfinancialgroup.com",
     "thumbnail": "images/mill_intranet_portada.jpg",
-    "description": "",
-    "layout": {
+    "description": "<p>This is an web app developed for the insurance company Mill Financial Group. The goal was to create a tool which the insurance agents could use to make easier their job; in the app they can manage their meetings, and receive automated reminders, with their clients, have a contact list of them and register their sales to get paid their commission</p>"
       "width": "col-md-7",
       "wrap": false,
       "height": "img-2"
@@ -37,7 +36,7 @@
       "wrapType": "opening",
       "height": "img"
     },
-    "description": "",
+    "description": "<p>With the design made by <a href='https://www.behance.net/AdrianaVillegas93' target='_blank'>Adriana</a>, I created a fast and fully responsive website for Tumaca, to show their services and products</p>",
     "tags": ["HTML 5", "CSS 3", "JavaScript", "jQuery", "Materialize-css"],
     "gallery": [
       "data/projects/2/tumaca-portada.jpg",
@@ -60,8 +59,8 @@
       "wrapType": "closing",
       "height": "img"
     },
-    "description": "",
-    "tags": ["HTML 5", "CSS 3", "Materialize", "Modern Design", "jQuery", "JavaScript"],
+    "description": "<p>Back with the insurance company Mill Financial Group, we created and modern design style website, to show the goals and information of the company</p>",
+    "tags": ["HTML 5", "CSS 3", "Materialize-css", "OwlCarousel.js", "jQuery", "JavaScript"],
     "gallery": [
       "data/projects/3/mill_portada.jpg",
       "data/projects/3/mill-home.JPG",
@@ -82,8 +81,8 @@
       "wrap": false,
       "height": "img"
     },
-    "description": "",
-    "tags": ["PHP", "WordPress"],
+    "description": "<p>Senepol Norte Sur is a company of cattle, specialized on Senepol cow race. They wanted to create an online catalog where they could show their animals to their clients</p>",
+    "tags": ["PHP", "HTML 5", "JavaScript", "jQuery", "WordPress"],
     "gallery": [
       "data/projects/4/home-1.PNG",
       "data/projects/4/whole_page.png",
@@ -104,7 +103,7 @@
       "wrap": false,
       "height": "img"
     },
-    "description": "",
+    "description": "<p>Website created for the industrial products manufacturer Dupar.</p>",
     "tags": ["WordPress"],
     "gallery": [
       "data/projects/5/dupar_home-1.PNG",
