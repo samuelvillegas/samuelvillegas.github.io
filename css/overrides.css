@@ -72,6 +72,7 @@
 .project-info{
     overflow: hidden;
     overflow-y: scroll;
+    padding: 1rem 35px !important;
 }
 .project-gallery{
     padding: 0 !important;
@@ -136,8 +137,8 @@
 }
 .project-info{
     display: flex;
-    flex-wrap: wrap;
-    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-between;
 }
 .project-info h1{
     font-size: 1.5rem;

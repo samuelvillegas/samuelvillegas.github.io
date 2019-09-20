@@ -5,7 +5,8 @@
     "category" : "Web Development",
     "url": "https://millfinancialgroup.com",
     "thumbnail": "images/mill_intranet_portada.jpg",
-    "description": "<p>This is an web app developed for the insurance company Mill Financial Group. The goal was to create a tool which the insurance agents could use to make easier their job; in the app they can manage their meetings, and receive automated reminders, with their clients, have a contact list of them and register their sales to get paid their commission</p>"
+    "description": "This is an web app developed for the insurance company Mill Financial Group. The goal was to create a tool which the insurance agents could use to make easier their job; in the app they can manage their meetings, and receive automated reminders, with their clients, have a contact list of them and register their sales to get paid their commission",
+    "layout": {
       "width": "col-md-7",
       "wrap": false,
       "height": "img-2"
@@ -36,7 +37,7 @@
       "wrapType": "opening",
       "height": "img"
     },
-    "description": "<p>With the design made by <a href='https://www.behance.net/AdrianaVillegas93' target='_blank'>Adriana</a>, I created a fast and fully responsive website for Tumaca, to show their services and products</p>",
+    "description": "With the design made by <a href='https://www.behance.net/AdrianaVillegas93' target='_blank'>Adriana Villegas</a>, I created a fast and fully responsive website for Tumaca, to show their services and products",
     "tags": ["HTML 5", "CSS 3", "JavaScript", "jQuery", "Materialize-css"],
     "gallery": [
       "data/projects/2/tumaca-portada.jpg",
@@ -59,7 +60,7 @@
       "wrapType": "closing",
       "height": "img"
     },
-    "description": "<p>Back with the insurance company Mill Financial Group, we created and modern design style website, to show the goals and information of the company</p>",
+    "description": "Back with the insurance company Mill Financial Group, we created and modern design style website, to show the goals and information of the company",
     "tags": ["HTML 5", "CSS 3", "Materialize-css", "OwlCarousel.js", "jQuery", "JavaScript"],
     "gallery": [
       "data/projects/3/mill_portada.jpg",
@@ -81,7 +82,7 @@
       "wrap": false,
       "height": "img"
     },
-    "description": "<p>Senepol Norte Sur is a company of cattle, specialized on Senepol cow race. They wanted to create an online catalog where they could show their animals to their clients</p>",
+    "description": "Senepol Norte Sur is a company of cattle, specialized on Senepol cow race. They wanted to create an online catalog where they could show their animals to their clients",
     "tags": ["PHP", "HTML 5", "JavaScript", "jQuery", "WordPress"],
     "gallery": [
       "data/projects/4/home-1.PNG",
@@ -93,25 +94,24 @@
     ]
   },
   {
-    "id": 5,
-    "title": "Dupar - WordPress Website",
-    "category": "WordPress Development",
-    "url": "http://dupar.com.ve",
-    "thumbnail": "images/dupar_portada.jpg",
+    "id": 6,
+    "title": "Adslab - Web App",
+    "category": "Web Development",
+    "url": "http://adslab.io",
+    "thumbnail": "images/adslab_portada.jpg",
     "layout": {
       "width": "col-md-8",
       "wrap": false,
       "height": "img"
     },
-    "description": "<p>Website created for the industrial products manufacturer Dupar.</p>",
-    "tags": ["WordPress"],
+    "description": "AdsLab is a web application to automate the publication of advertisements on certain websites. In this project I made all the API Rest of the application with Python and the Django framework, which included the programming of tasks that will be executed in the background to publish the ads, the users CRUD, campaigns, among other models. I developed the payment platform using PayPal and Coinbase to accept payments with cryptocurrencies.\nAlso, I developed one of the bots that through web scraping execute the functions to publish, delete and modify the user's ads published in Yapo.cl, in addition to checking their status.",
+    "tags": ["Web development", "Python", "Django", "API Rest", "Full-Staack"],
     "gallery": [
-      "data/projects/5/dupar_home-1.PNG",
-      "data/projects/5/dupar_home-2.PNG",
-      "data/projects/5/dupar_producto.jpg",
-      "data/projects/5/dupar_producto-1.PNG",
-      "data/projects/5/dupar_responsive-1.PNG",
-      "data/projects/5/dupar_captura-dupar_2.PNG"
+      "data/projects/6/adslab_home.PNG",
+      "data/projects/6/adslab_login.PNG",
+      "data/projects/6/adslab_dashboard.PNG",
+      "data/projects/6/campaign.PNG",
+      "data/projects/6/payments.PNG"
     ]
   }
 ]

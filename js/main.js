@@ -277,10 +277,17 @@ AOS.init({
 
 var projects = {};
 $.ajax({
-	"type": "GET",
-	"url": "data/projects.json",
+	type: "GET",
+	url: "data/projects.json",
+	contentType: "text/plain",
+	error: function(data){
+		console.log("nop")
+	},
+	complete: function(data){
+			console.log(data)
+	},
 	success: function(data){
-		console.log(data)
+		console.log(data);
 		let htmlResult = '';
 
 		let html = '<div class="{{width}}">' +
@@ -327,7 +334,7 @@ $('#projects_container').on('click', '[data-target="#view_site"]',function (e) {
 
 	$('#project_title').text(project.title);
 	$('#project_url').text(project.url).attr('href', project.url);
-	$('#project_description').text(project.description);
+	$('#project_description').html(project.description);
 	let project_tags = $('#project_tags');
 
 	project_tags.html("");
